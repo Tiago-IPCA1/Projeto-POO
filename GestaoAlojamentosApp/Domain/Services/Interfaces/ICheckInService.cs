@@ -1,13 +1,17 @@
-/* Autor: Tiago Vale
-   Data: 15 de novembro de 2024
-   Email: a27675@alunos.ipca.pt
-   Descrição: Interface com os métodos de serviço para CheckIn.
+/* 
+   @file: ICheckInService.cs
+   @autor: Tiago Vale
+   @data: 14 de novembro de 2024
+   @email: a27675@alunos.ipca.pt
+   @descrição: Interface com os métodos de serviço para CheckIn.
 */
 
+using System;
+using GestaoAlojamentosApp.Domain.Models.Entities;
+using GestaoAlojamentosApp.Domain.Models.Enums;
 using System.Collections.Generic;
-using GestaoAlojamentosApp.Domain.Models;
 
-namespace GestaoAlojamentosApp.Domain.Services
+namespace GestaoAlojamentosApp.Domain.Services.Interfaces
 {
     public interface ICheckInService
     {
