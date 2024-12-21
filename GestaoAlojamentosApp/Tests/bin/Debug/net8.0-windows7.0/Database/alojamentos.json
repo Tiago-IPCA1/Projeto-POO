@@ -1,13 +1,1 @@
-[
-  {
-    "Id": 3,
-    "Nome": "sdsdsda",
-    "Localizacao": "sdasd",
-    "PrecoPorNoite": 23.0,
-    "Capacidade": 23,
-    "NumeroDeQuartos": 24,
-    "Status": "Disponivel",
-    "Tipo": "Apartamento",
-    "Imagens": []
-  }
-]
+[]
