@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "7fdb3c9b-9272-46e9-b39d-4b99f56ecb5a",
+    "Username": "admin",
+    "PasswordHash": "$2a$12$5dOa9PtdQUwSxtkPjYxrleElh3Gs4lbhl/9lzU84sM2KwOWmiH4lS",
+    "Tipo": 0,
+    "PessoaId": 1
+  },
+  {
+    "Id": "b324a8f9-e299-487f-8c73-fb848635ab12",
+    "Username": "cliente",
+    "PasswordHash": "$2a$12$Wcb.VA5HfCGhqfhSe7R0r.X2ElgGz5HNVNq9cxwqu.XhT1Uqz2fYm",
+    "Tipo": 1,
+    "PessoaId": 2
+  }
+]

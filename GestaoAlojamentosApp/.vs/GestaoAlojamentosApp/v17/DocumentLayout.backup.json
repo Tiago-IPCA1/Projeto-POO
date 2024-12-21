@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|c:\\users\\asus\\desktop\\sistemadegestao\\teste\\sistemagestao\\gestaoalojamentosapp\\app\\forms\\formgestaopagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaopagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormAutenticacao.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormMenuCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormPagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormRegisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormReserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\RegistoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\PagamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\ReservaForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\AlojamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormAutenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\CheckInForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\ClientePagamentoForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\ClienteReservaForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormConsultarAlojamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormConsultaAlojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\app\\forms\\formconsultaalojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\forms\\formconsultaalojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\Forms\\FormGestaoCheckIn.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|c:\\users\\asus\\desktop\\sistemadegestao\\teste\\sistemagestao\\gestaoalojamentosapp\\app\\forms\\formgestaopagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaopagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|c:\\users\\asus\\desktop\\sistemadegestao\\teste\\sistemagestao\\gestaoalojamentosapp\\app\\forms\\formgestaocheckins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaocheckins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|c:\\users\\asus\\desktop\\sistemadegestao\\teste\\sistemagestao\\gestaoalojamentosapp\\app\\forms\\formgestaoreservas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaoreservas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|c:\\users\\asus\\desktop\\sistemadegestao\\teste\\sistemagestao\\gestaoalojamentosapp\\app\\forms\\formgestaoreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaoreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\app\\forms\\formgestaocheckins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaocheckins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\app\\forms\\formgestaoreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaoreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\app\\forms\\formgestaoalojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formgestaoalojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\app\\forms\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A63F0E25-E5E9-401E-AD58-6F4BEFE5A678}|App\\App.csproj|solutionrelative:app\\forms\\formmenuadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGestaoPagamentos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoPagamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs [Design]",
+              "RelativeToolTip": "App\\Forms\\FormGestaoPagamentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:43:17.395Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAutenticacao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormAutenticacao.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\FormAutenticacao.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:04:31.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormGestaoPagamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoPagamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs",
+              "RelativeToolTip": "App\\Forms\\FormGestaoPagamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:04:03.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMenuCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormMenuCliente.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs",
+              "RelativeToolTip": "App\\Forms\\FormMenuCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:04:00.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormPagamento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs",
+              "RelativeToolTip": "App\\Forms\\FormPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:57.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegisto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormRegisto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs",
+              "RelativeToolTip": "App\\Forms\\FormRegisto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:56.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormReserva.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormReserva.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs",
+              "RelativeToolTip": "App\\Forms\\FormReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:55.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\RegistoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\RegistoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:54.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagamentoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\PagamentoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\PagamentoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:53.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\ReservaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\ReservaForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:52.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlojamentoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\AlojamentoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\AlojamentoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:50.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormGestaoCheckIns.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoCheckIns.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs",
+              "RelativeToolTip": "App\\Forms\\FormGestaoCheckIns.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAutenticacao.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormAutenticacao.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs",
+              "RelativeToolTip": "App\\Forms\\FormAutenticacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:11.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormGestaoCheckIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:07.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs",
+              "RelativeToolTip": "App\\Forms\\FormCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:02.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\CheckInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\CheckInForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:02:59.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientePagamentoForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\ClientePagamentoForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs",
+              "RelativeToolTip": "App\\Forms\\ClientePagamentoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:02:57.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteReservaForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\ClienteReservaForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs",
+              "RelativeToolTip": "App\\Forms\\ClienteReservaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:02:56.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormGestaoReservas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoReservas.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\FormGestaoReservas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:02:32.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormGestaoReservas.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoReservas.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs",
+              "RelativeToolTip": "App\\Forms\\FormGestaoReservas.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:02:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormConsultarAlojamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "RelativeToolTip": "App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:01:31.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormConsultaAlojamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormConsultaAlojamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs",
+              "RelativeToolTip": "App\\Forms\\FormConsultaAlojamentos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:01:23.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormCheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormCheckIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs",
+              "RelativeToolTip": "App\\Forms\\FormCheckIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:01:20.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormGestaoCheckIns.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoCheckIns.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs [Projeto]",
+              "RelativeToolTip": "App\\Forms\\FormGestaoCheckIns.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:55:20.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormGestaoReservas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoReservas.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs [Projeto]",
+              "RelativeToolTip": "App\\Forms\\FormGestaoReservas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:04:49.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormConsultaAlojamentos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormConsultaAlojamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\KKK\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\KKK\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:03:01.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormGestaoAlojamentos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormGestaoAlojamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs [Projeto]",
+              "RelativeToolTip": "App\\Forms\\FormGestaoAlojamentos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:59:05.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormMenuAdministrador.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs",
+              "RelativeDocumentMoniker": "App\\Forms\\FormMenuAdministrador.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:55:52.387Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
