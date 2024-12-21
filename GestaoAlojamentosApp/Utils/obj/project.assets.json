@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\Utils.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\Utils.csproj",
       "projectName": "Utils",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\Utils.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\Utils.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4323,11 +4323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4345,14 +4345,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows7.0",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj"
+            "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\App\\App.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\App\\App.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Domain.csproj"
+            "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

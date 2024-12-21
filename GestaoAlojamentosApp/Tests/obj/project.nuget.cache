@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9lNL//noKQY=",
+  "dgSpecHash": "40/33O3sKOw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Teste final\\Base\\SistemaDeGestao\\Teste\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
