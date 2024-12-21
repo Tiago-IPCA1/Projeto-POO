@@ -1,6 +1,5 @@
 using Moq;
 using System;
-using System.Collections.Generic;
 using Xunit;
 using GestaoAlojamentosApp.Domain.Models;
 using GestaoAlojamentosApp.Domain.Enums;
@@ -40,8 +39,10 @@ namespace GestaoAlojamentosApp.Tests
             );
         }
 
+        #region Testes de Criação de Reserva
+
         [Fact]
-        public void CriarReserva_DeveSerBemSucedido_QuandoTodosOsDadosSaoValidos()
+        public void CriarReserva_Sucesso()
         {
             // Arrange
             var clienteId = 1;
@@ -68,7 +69,7 @@ namespace GestaoAlojamentosApp.Tests
         }
 
         [Fact]
-        public void CriarReserva_DeveLancarExcecao_QuandoAlojamentoNaoDisponivel()
+        public void CriarReserva_LancarExcecao_QuandoAlojamentoIndisponivel()
         {
             // Arrange
             var clienteId = 1;
@@ -88,8 +89,12 @@ namespace GestaoAlojamentosApp.Tests
                 _reservaService.CriarReserva(clienteId, alojamentoId, dataInicio, dataFim, 0, numeroDePessoas));
         }
 
+        #endregion
+
+        #region Testes de Atualização de Reserva
+
         [Fact]
-        public void AtualizarReserva_DeveSerBemSucedido_QuandoReservaExiste()
+        public void AtualizarReserva_Sucesso()
         {
             // Arrange
             var reservaId = 1;
@@ -117,7 +122,23 @@ namespace GestaoAlojamentosApp.Tests
         }
 
         [Fact]
-        public void RemoverReserva_DeveSerBemSucedido_QuandoReservaExiste()
+        public void AtualizarReserva_LancarExcecao_QuandoReservaNaoExistir()
+        {
+            // Arrange
+            var reservaId = 999;
+
+            _mockReservaRepository.Setup(r => r.ObterPorId(reservaId)).Returns((Reserva?)null);
+
+            // Act & Assert
+            Assert.Throws<KeyNotFoundException>(() => _reservaService.AtualizarReserva(reservaId, 1, 1, DateTime.Now, DateTime.Now.AddDays(3), 0, 2));
+        }
+
+        #endregion
+
+        #region Testes de Remoção de Reserva
+
+        [Fact]
+        public void RemoverReserva_Sucesso()
         {
             // Arrange
             var reservaId = 1;
@@ -134,7 +155,7 @@ namespace GestaoAlojamentosApp.Tests
         }
 
         [Fact]
-        public void RemoverReserva_DeveLancarExcecao_QuandoReservaNaoExiste()
+        public void RemoverReserva_LancarExcecao_QuandoReservaNaoExistir()
         {
             // Arrange
             var reservaId = 999;
@@ -144,5 +165,7 @@ namespace GestaoAlojamentosApp.Tests
             // Act & Assert
             Assert.Throws<KeyNotFoundException>(() => _reservaService.RemoverReserva(reservaId));
         }
+
+        #endregion
     }
 }

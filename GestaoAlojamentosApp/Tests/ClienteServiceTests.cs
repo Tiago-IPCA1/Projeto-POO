@@ -28,7 +28,6 @@ namespace GestaoAlojamentosApp.Tests
             _mockClienteRepository = new Mock<IClienteRepository>();
             _mockClienteValidator = new Mock<IClienteValidator>();
 
-            // Instancia o serviço com os mocks
             _clienteService = new ClienteService(
                 _mockClienteRepository.Object,
                 _mockClienteValidator.Object

@@ -26,7 +26,6 @@ namespace GestaoAlojamentosApp.Tests
             // Criação do mock para o repositório de utilizador
             _mockUtilizadorRepository = new Mock<IUtilizadorRepository>();
 
-            // Instancia o serviço com o mock
             _utilizadorService = new UtilizadorService(_mockUtilizadorRepository.Object);
         }
 

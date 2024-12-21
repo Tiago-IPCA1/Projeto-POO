@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\PagamentoServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\PagamentoServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\UtlilizadorServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\UtlilizadorServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\CheckInServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\CheckInServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "CheckInServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\CheckInServiceTests.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\CheckInServiceTests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\CheckInServiceTests.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\CheckInServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:51:11.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlojamentoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:50:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClienteServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
               "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
               "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:44:18.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PagamentoServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\PagamentoServiceTests.cs",
               "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\PagamentoServiceTests.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\PagamentoServiceTests.cs",
               "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\PagamentoServiceTests.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:44:12.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ReservaServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
               "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
               "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:44:08.277Z",
               "EditorCaption": ""
@@ -75,7 +109,7 @@
               "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\UtlilizadorServiceTests.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675\\Projeto-POO\\GestaoAlojamentosApp\\Tests\\UtlilizadorServiceTests.cs",
               "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\UtlilizadorServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:43:42.318Z",
               "EditorCaption": ""
