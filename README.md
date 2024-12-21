@@ -68,5 +68,5 @@ Este projeto serve como uma base sólida para a implementação de sistemas de g
 
 ## Mais Informações
 
-Para detalhes adicionais sobre o funcionamento do sistema, documentação técnica e relatórios de progresso, consulte o **relatório completo** que acompanha este projeto. O relatório contém informações detalhadas sobre o sistema.
+Para detalhes adicionais sobre o funcionamento do sistema, consulte o **relatório completo** que acompanha este projeto. O relatório contém informações detalhadas sobre o sistema.
 
