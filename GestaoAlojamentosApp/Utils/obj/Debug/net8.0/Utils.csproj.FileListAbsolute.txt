@@ -1,0 +1,95 @@
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\GestaoAlojamentosApp\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\KKK\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Teste final\Base\SistemaDeGestao\Teste\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\ASUS\Desktop\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\SistemaGestao\GestaoAlojamentosApp\Utils\obj\Debug\net8.0\ref\Utils.dll

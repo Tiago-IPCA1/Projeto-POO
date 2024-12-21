@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "f413f957-e857-4698-ad02-f26f6359dd1a",
+    "Nome": "hhh",
+    "Localizacao": "hhh",
+    "Descricao": "hhh",
+    "Capacidade": 12,
+    "PrecoPorNoite": 12.0,
+    "Status": 0,
+    "TipoAlojamento": 0,
+    "ImagemTipoAlojamento": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Resources\\suiteluxo.png"
+  },
+  {
+    "Id": "267af63f-94af-4f24-a8e6-706da7537873",
+    "Nome": "h",
+    "Localizacao": "s",
+    "Descricao": "s",
+    "Capacidade": 2,
+    "PrecoPorNoite": 2.0,
+    "Status": 0,
+    "TipoAlojamento": 0,
+    "ImagemTipoAlojamento": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Resources\\suiteluxo.png"
+  }
+]

@@ -1,0 +1,1701 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReserva.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoReserva.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\AlojamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Repositories\\AlojamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\AlojamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Services\\AlojamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAlojamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAlojamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\Alojamentos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Database\\Alojamentos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAlojamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAlojamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\TipoAlojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Enums\\TipoAlojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusAlojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Enums\\StatusAlojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Alojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\Alojamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\CheckInRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Repositories\\CheckInRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\AdministradorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Repositories\\AdministradorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusReserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Enums\\StatusReserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\AdmistradorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Services\\AdmistradorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\UtilizadorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Repositories\\UtilizadorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAdministradorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAdministradorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\CheckInService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Services\\CheckInService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\ICheckInService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\services\\ICheckInService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\Pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\CheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\CheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\CheckIn.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Database\\CheckIn.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\UtlizadorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Services\\UtlizadorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\utilizadores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Database\\utilizadores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\administradores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\administradores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\Utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\Reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\bin\\Debug\\net8.0\\Data.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\bin\\Debug\\net8.0\\Data.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IPagamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IPagamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\ReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Services\\ReservaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\PagamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Services\\PagamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IPagamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IPagamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\ClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Services\\ClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IUtilizadorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IUtilizadorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Repositories\\ReservaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\ICheckInRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\ICheckInRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\PagamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Repositories\\PagamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\ClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Repositories\\ClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IUtilizadorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IUtilizadorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\PessoaBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\PessoaBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\TipoUtilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Enums\\TipoUtilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Enums\\StatusCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAdministradorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAdministradorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Models\\Administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormReserva.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusPagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Enums\\StatusPagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\FormGestaoPagamentos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\FormGestaoPagamentos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\App.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\CriarIds\\CriarIds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Utils\\CriarIds\\CriarIds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormPagamento.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\Administradores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Data\\Database\\Administradores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoReservas .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoReservas .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoPagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoPagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoCheckIn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\Validacoes\\Validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Utils\\Validacoes\\Validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Helpers\\FormHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Helpers\\FormHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\IClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\IClienteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\IAdministradorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\IAdministradorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\ILoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\Domain\\Interfaces\\ILoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistroAdministradorForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoAlojamentosApp\\App\\Forms\\RegistroAdministradorForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 99,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Alojamentos.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\Alojamentos.json",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Database\\Alojamentos.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\Alojamentos.json",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Database\\Alojamentos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T16:56:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CheckIn.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\CheckIn.json",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Database\\CheckIn.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\CheckIn.json",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Database\\CheckIn.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T16:56:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Data.deps.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\bin\\Debug\\net8.0\\Data.deps.json",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\bin\\Debug\\net8.0\\Data.deps.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\bin\\Debug\\net8.0\\Data.deps.json",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\bin\\Debug\\net8.0\\Data.deps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T15:53:27.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T15:51:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "utilizadores.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\utilizadores.json",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Database\\utilizadores.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\utilizadores.json",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Database\\utilizadores.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T15:00:53.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "administradores.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\administradores.json",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\administradores.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\administradores.json",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\administradores.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T15:00:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Utilizador.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Utilizador.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\Utilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:30:28.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "clientes.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\clientes.json",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\clientes.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\clientes.json",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\clientes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T17:02:08.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "App.csproj.user",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj.user",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\App.csproj.user",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj.user",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\App.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-11-22T16:26:49.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Administradores.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\Administradores.json",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Database\\Administradores.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Database\\Administradores.json",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Database\\Administradores.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T02:07:44.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGestaoReserva.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReserva.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoReserva.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReserva.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoReserva.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:28:18.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FormGestaoPagamentos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:27:20.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "FormGestaoPagamentos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\FormGestaoPagamentos.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\FormGestaoPagamentos.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\FormGestaoPagamentos.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\FormGestaoPagamentos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:27:00.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "FormGestaoClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:26:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormGestaoCheckIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:25:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGestaoAlojamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamento.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamento.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamento.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamento.Designer.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAswFYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:24:46.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FormCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormCliente.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:12:11.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "FormCheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormCheckIn.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:04:02.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Domain.csproj",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T02:45:40.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FormPagamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormPagamento.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormPagamento.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:00:45.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FormReserva.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormReserva.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormReserva.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:58:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormConsultarAlojamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormConsultarAlojamento.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:52:59.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FormPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:41:25.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FormReserva.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:39:54.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormConsultaAlojamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormConsultaAlojamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:35:34.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "PagamentoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\PagamentoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:48:19.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IPagamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IPagamentoRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IPagamentoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IPagamentoRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IPagamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:05:14.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckInRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\CheckInRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Repositories\\CheckInRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\CheckInRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Repositories\\CheckInRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:04:13.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICheckInRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\ICheckInRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\ICheckInRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\ICheckInRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\ICheckInRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:03:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormMenuAdministrador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:34:21.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMenuCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:34:02.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAcwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:48:05.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormPrincipal.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:47:48.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormMenuAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormMenuAdministrador.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:37:30.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "FormHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Helpers\\FormHelper.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Helpers\\FormHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Helpers\\FormHelper.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Helpers\\FormHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:18:08.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Data.csproj",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T17:09:40.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "FormGestaoReservas .cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoReservas .cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoReservas .cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoReservas .cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoReservas .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:06:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "FormGestaoPagamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoPagamentos.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoPagamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoPagamentos.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoPagamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:06:15.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "FormGestaoClientes.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoClientes.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoClientes.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoClientes.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:06:14.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "FormGestaoCheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoCheckIn.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoCheckIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoCheckIn.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\Administrador\\FormGestaoCheckIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:06:13.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormAutenticacao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:05:20.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RegistoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\RegistoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:05:05.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICheckInService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\ICheckInService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\ICheckInService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\ICheckInService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\ICheckInService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:50:26.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UtilizadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\UtilizadorRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Repositories\\UtilizadorRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\UtilizadorRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Repositories\\UtilizadorRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:49:40.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IUtilizadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IUtilizadorRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IUtilizadorRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IUtilizadorRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IUtilizadorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:49:01.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IUtilizadorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IUtilizadorService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IUtilizadorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IUtilizadorService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IUtilizadorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:42:21.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ClientePagamentoForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\ClientePagamentoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:38:24.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ClienteReservaForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\ClienteReservaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:38:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "CheckInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\CheckInForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:38:02.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormGestaoCheckIns.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoCheckIns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:37:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FormGestaoPagamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoPagamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:37:22.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormRegisto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormRegisto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:27:04.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAdministradorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAdministradorRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAdministradorRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAdministradorRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAdministradorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:25:10.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdministradorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\AdministradorRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Repositories\\AdministradorRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\AdministradorRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Repositories\\AdministradorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:24:43.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IAdministradorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAdministradorService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAdministradorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAdministradorService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAdministradorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:24:14.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PagamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\PagamentoRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Repositories\\PagamentoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\PagamentoRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Repositories\\PagamentoRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:19:51.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PagamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\PagamentoService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Services\\PagamentoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\PagamentoService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Services\\PagamentoService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:19:33.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IPagamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IPagamentoService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IPagamentoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IPagamentoService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IPagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:19:04.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ClienteServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\ClienteServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:18:14.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FormGestaoClientes.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:17:53.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IClienteService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:16:05.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ReservaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\ReservaForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:05:43.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FormGestaoReservas.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoReservas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:04:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ReservaServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\ReservaServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:03:37.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IReservaService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IReservaService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IReservaService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IReservaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:01:06.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AlojamentoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\AlojamentoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:59:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormGestaoAlojamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormGestaoAlojamentos.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAswN8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:59:03.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\ReservaService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Services\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\ReservaService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Services\\ReservaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:46:05.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\ReservaRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Repositories\\ReservaRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\ReservaRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Repositories\\ReservaRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:45:43.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IReservaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IReservaRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IReservaRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IReservaRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IReservaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:45:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:10:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:09:51.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAlojamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAlojamentoRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAlojamentoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAlojamentoRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\Repositories\\IAlojamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:00:30.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdmistradorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\AdmistradorService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Services\\AdmistradorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\AdmistradorService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Services\\AdmistradorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:57:11.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\IClienteService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:44:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\ClienteService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Services\\ClienteService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:44:18.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlojamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\AlojamentoRepository.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Data\\Repositories\\AlojamentoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Data\\Repositories\\AlojamentoRepository.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Data\\Repositories\\AlojamentoRepository.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAswJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:38:54.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "AlojamentoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Tests\\AlojamentoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:38:14.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAlojamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAlojamentoService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAlojamentoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAlojamentoService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\services\\IAlojamentoService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:35:08.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlojamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\AlojamentoService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Services\\AlojamentoService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\AlojamentoService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Services\\AlojamentoService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:34:50.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CriarIds.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\CriarIds\\CriarIds.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Utils\\CriarIds\\CriarIds.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\CriarIds\\CriarIds.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Utils\\CriarIds\\CriarIds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:34:14.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IAdministradorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\IAdministradorService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\IAdministradorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\IAdministradorService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\IAdministradorService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:31:38.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CheckInService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\CheckInService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Services\\CheckInService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\CheckInService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Services\\CheckInService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:28:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormMenuCliente.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormMenuCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:28:18.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "RegistroAdministradorForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistroAdministradorForm.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\RegistroAdministradorForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\RegistroAdministradorForm.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\RegistroAdministradorForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:27:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FormAutenticacao.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Forms\\FormAutenticacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:26:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UtlizadorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\UtlizadorService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Services\\UtlizadorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Services\\UtlizadorService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Services\\UtlizadorService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:26:03.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Interfaces\\ILoginService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:21:39.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TipoUtilizador.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\TipoUtilizador.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Enums\\TipoUtilizador.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\TipoUtilizador.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Enums\\TipoUtilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:50:47.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoAlojamento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\TipoAlojamento.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Enums\\TipoAlojamento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\TipoAlojamento.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Enums\\TipoAlojamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:50:43.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatusReserva.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusReserva.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Enums\\StatusReserva.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusReserva.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Enums\\StatusReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:50:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "StatusPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusPagamento.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Enums\\StatusPagamento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusPagamento.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Enums\\StatusPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:50:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "StatusCheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusCheckIn.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Enums\\StatusCheckIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusCheckIn.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Enums\\StatusCheckIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:50:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatusAlojamento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusAlojamento.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Enums\\StatusAlojamento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Enums\\StatusAlojamento.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Enums\\StatusAlojamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:50:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Validador.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\Validacoes\\Validador.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Utils\\Validacoes\\Validador.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\Validacoes\\Validador.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Utils\\Validacoes\\Validador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:29:59.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Reserva.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:27:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Pagamento.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Pagamento.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:26:51.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\CheckIn.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\CheckIn.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\CheckIn.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\CheckIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:26:36.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Alojamento.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Alojamento.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\Alojamento.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Alojamento.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\Alojamento.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:26:29.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\App.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T22:21:15.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Cliente.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:18:54.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PessoaBase.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\PessoaBase.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\PessoaBase.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\PessoaBase.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\PessoaBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:18:40.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Administrador.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\Domain\\Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Models\\Administrador.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\Domain\\Models\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:18:34.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoAlojamentosApp\\App\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\GestaoAlojamentosApp\\App\\Program.cs",
+              "RelativeToolTip": "GestaoAlojamentosApp\\App\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:14:52.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SistemaGestao\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-16T17:00:05.692Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

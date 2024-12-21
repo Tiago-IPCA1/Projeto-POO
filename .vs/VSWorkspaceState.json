@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GestaoAlojamentosApp",
+    "\\GestaoAlojamentosApp\\App",
+    "\\GestaoAlojamentosApp\\App\\ViewModels",
+    "\\GestaoAlojamentosApp\\Domain",
+    "\\GestaoAlojamentosApp\\Utils\\CriarIds"
+  ],
+  "SelectedNode": "\\GestaoAlojamentosApp\\App\\ViewModels\\ViewModelCliente.cs",
+  "PreviewInSolutionExplorer": false
+}
