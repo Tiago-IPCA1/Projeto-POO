@@ -3327,11 +3327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\App\\App.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\App\\App.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\App\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3349,14 +3349,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\Domain\\Domain.csproj"
+            "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Infrastructure\\Infrastructure.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\Utils.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projeto_ESIPL_POO_Tiago_Aluno_27675_Aluno\\SistemaGestao\\GestaoAlojamentosApp\\Utils\\Utils.csproj"
+            "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\Utils.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Nova pasta (3)\\Projeto-POO\\GestaoAlojamentosApp\\Utils\\Utils.csproj"
             }
           }
         }
