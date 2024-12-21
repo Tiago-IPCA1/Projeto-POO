@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "Id": 1,
+    "Nome": "sadsds",
+    "Localizacao": "sdsd",
+    "PrecoPorNoite": 223.0,
+    "Capacidade": 24,
+    "NumeroDeQuartos": 45,
+    "Status": "Disponivel",
+    "Tipo": "Apartamento",
+    "Imagens": []
+  },
+  {
+    "Id": 2,
+    "Nome": "sdsdsdd",
+    "Localizacao": "sdsdsaddsasdasd",
+    "PrecoPorNoite": 223.0,
+    "Capacidade": 24,
+    "NumeroDeQuartos": 45,
+    "Status": "Disponivel",
+    "Tipo": "Apartamento",
+    "Imagens": []
+  }
+]
