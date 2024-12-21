@@ -18,7 +18,6 @@ Este projeto tem como objetivo desenvolver um sistema de gestão de **alojamento
    - Adicionar, editar, visualizar e remover alojamentos turísticos.
    - Gerir os detalhes dos alojamentos, como tipo, capacidade, preços e disponibilidade.
    - Alteração do status dos alojamentos (disponível, indisponível, etc.).
-   - 
 ### 2. **Gestão de Clientes**
    - Registo e edição de informações dos clientes.
    - Visualização dos dados pessoais.
@@ -60,10 +59,6 @@ O projeto está organizado em várias camadas, conforme descrito abaixo:
 
 ### 5. **Infrastructure**
    - Contém a implementação da persistência de dados, como o acesso a ficheiros JSON, que são utilizados para armazenar e recuperar os dados do sistema.
-
-## Acesso ao Sistema
-
-O sistema é **restrito** a administradores, garantindo que apenas usuários autorizados possam acessar funcionalidades críticas, como a gestão de clientes, alojamentos, reservas, pagamentos e check-ins. O controle de acesso é implementado para garantir a segurança e integridade dos dados.
 
 ## Conclusão
 
