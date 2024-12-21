@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "Id": 2,
+    "ReservaId": 1,
+    "Valor": 2899.0,
+    "DataPagamento": "2024-12-21T16:42:29.1219777+00:00",
+    "MetodoPagamento": "CartaoCredito",
+    "Status": "Confirmado"
+  }
+]
